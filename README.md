@@ -1,4 +1,4 @@
-# LinkedIn-Bulk-Invitation-Withdraw-Script
+# LinkedIn Bulk Invitation Withdrawal automation Script
 Withdraw All Your Linkedin Connect Invitation At Once With No Effort
 
 Just copy the content of js file and paste on Chrome developer console. Press enter, lean on your chair and see.
