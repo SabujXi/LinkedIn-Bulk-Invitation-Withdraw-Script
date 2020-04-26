@@ -12,7 +12,7 @@ You are free use this sceript anywhere with proper mentioning proper credit and 
     var totalCount = 0;
     var els = []
     function populateEls(){
-        els = document.getElementsByClassName("mn-person-card__person-btn-ext");
+        els = document.getElementsByClassName("artdeco-button__text");
         
         
     }
